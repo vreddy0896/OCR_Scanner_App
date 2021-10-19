@@ -1,0 +1,22 @@
+
+            // let ocrData = new FormData();
+            // ocrData.append('url', response.data.url);
+            // ocrData.append('language', 'eng');
+            // console.log(ocrData);
+            // axios.post('https://api.ocr.space/parse/image', ocrData,
+            // {
+            //     headers: {
+            //         "Content-Type": "multipart/form-data",
+            //         apikey: 'cee1b8f0b488957'
+            //     }
+            // })
+            // .then((response2) => {
+            //     console.log(response2.data.ParsedResults[0]);
+            //     this.setState({
+            //         parsedText: response2.data.ParsedResults[0].ParsedText,
+            //         showParsedText: true
+            //     })
+            // })
+            // .catch((error) => {
+            //     console.log(error);
+            // })
